@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.main-start {
+    margin: 45px auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px hsl(0, 0%, 0%);
+    width: 30%;
+    padding: 10px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.img-one {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 95%;
+}
+
+.header-one {
+    font-family: "Figtree", serif;
+    font-weight: 900;
+}
+
+.publish-paragraph {
+    font-family: "Figtree", serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.lrn-para {
+    background-color: hsl(47, 88%, 63%);
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    padding: 5px;
+    font-family: "Figtree", serif;
+    font-weight: 800;
+    width: 20%;
+}
+
+.lang-para {
+    font-family: "Figtree", serif;
+    font-weight: 300;
+    font-weight: 16px;
+}
+
+.para-one {
+    font-family: "Figtree", serif;
+    font-weight: 800;
+    font-weight: 16px;
+}
+.img-two {
+    width: 50px;
+    margin-top: 10px;
+}
+.field-one {
+    display: flex;
+    gap: 20px;
+}
